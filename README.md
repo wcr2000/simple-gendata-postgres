@@ -21,9 +21,9 @@ when you finish step setup container from above you can next step with python
 don't forget create environment
 <br>
 ```cmd
-python -m venv env
-
 cd your_path\project
+
+python -m venv env
 
 env\scripts\activate
 ```
