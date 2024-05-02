@@ -1,5 +1,5 @@
 # Create Database postgres with container & Generate simple data in python
-<br>Follow the step
+Follow the step<br>
 1.docker pull
 ```cmd
 docker pull postgres:latest
